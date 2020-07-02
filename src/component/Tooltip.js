@@ -3,7 +3,7 @@
  */
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-import { translateStyle } from 'react-smooth';
+import { translateStyle } from '@jbseo/react-smooth';
 import _ from 'lodash';
 import classNames from 'classnames';
 import DefaultTooltipContent from './DefaultTooltipContent';

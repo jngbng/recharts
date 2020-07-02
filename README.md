@@ -1,5 +1,7 @@
 # Recharts
 
+> ATTENTION! This is a fork with the sole purpose of being compatible with concurrent react. The goal is to always be a feature release ahead of the original package. Once the original package is on feature parity maintenance of this fork will be dropped.
+
 [![Rocket.Chat](https://demo.rocket.chat/images/join-chat.svg)](https://demo.rocket.chat/channel/recharts)
 [![Build Status](https://travis-ci.org/recharts/recharts.svg)](https://travis-ci.org/recharts/recharts)
 [![Coverage Status](https://coveralls.io/repos/recharts/recharts/badge.svg?branch=master&service=github)](https://coveralls.io/github/recharts/recharts?branch=master)

@@ -4,7 +4,7 @@
  */
 import React, { PureComponent } from 'react';
 import PropTypes from 'prop-types';
-import Smooth from 'react-smooth';
+import Smooth from '@jbseo/react-smooth';
 import classNames from 'classnames';
 import _ from 'lodash';
 import Surface from '../container/Surface';
